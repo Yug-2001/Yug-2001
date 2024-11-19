@@ -4,10 +4,6 @@
 <!--<h1 align="center">Hello , I'm Priyanshu 👋 .</h1>-->
 <h3 align="center">A random guy trynna to learn code...</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="Coding GIF" width="950" height="400" />
-</p>
-
 
 <p align="left"> <a href="https://twitter.com/@priyans70873748" target="blank"><img src="https://img.shields.io/twitter/follow/@priyans70873748?logo=twitter&style=for-the-badge" alt="@priyans70873748" /></a> </p>
 
