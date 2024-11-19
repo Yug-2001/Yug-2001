@@ -1,7 +1,6 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&random=false&width=435&lines=heyyo!+I'm+Priyanshu!)](https://git.io/typing-svg)-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=48&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Heyyo!+I'm+Arush!)](https://git.io/typing-svg)
 
-<!--<h1 align="center">Hello , I'm Priyanshu 👋 .</h1>-->
 <h3 align="center">A random guy trynna to learn code...</h3>
 
 
@@ -11,9 +10,9 @@
 
 - 🌱 I’m currently learning **MERN , Machine learning.**
 
-- 👯 I’m looking to collaborate on **MindX.**
+- 👯 I’m looking to collaborate on **Emotion detection application.**
 
-- 📫 How to reach me **priyanshukumarpal125@gmail.com**
+- 📫 How to reach me **arushkaushal167@gmail.com**
 
 - ⚡ Fun fact **I speak English(Programming Language).**
 
